@@ -4,7 +4,6 @@ Saya **Devi Febrianti**. Saya lahir di Bandung pada tanggal **11 Februari 2005**
 **_Beberapa Teknologi yang di kuasai_**
 - C
 - Java
-- HTML
 
 **_Proyek yang di Kerjakan_**
 - Membuat Game TicTacToe dalam bahasa C
