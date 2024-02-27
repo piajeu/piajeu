@@ -10,8 +10,8 @@ Haii semuanya perkenalkan saya **Devi Febrianti**. Saya lahir di Bandung pada ta
 - Membuat Game TicTacToe dalam bahasa C
 
 **_Hubungi_** 
--**Phone** : 089655462708 
--**Email** : febriantidevi61@gmail.com
+**- Phone** : 089655462708 
+**- Email** : febriantidevi61@gmail.com
 
 <!--
 **piajeu/piajeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
