@@ -9,8 +9,8 @@ Haii semuanya perkenalkan saya **Devi Febrianti**. Saya lahir di Bandung pada ta
 **_Proyek yang di Kerjakan_**
 - Membuat Game TicTacToe dalam bahasa C
 
-**_Hubungi_**
-**Phone** : 089655462708
+**_Hubungi_** 
+**Phone** : 089655462708 
 **Email** : febriantidevi61@gmail.com
 
 <!--
