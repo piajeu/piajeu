@@ -10,7 +10,7 @@ Saya **Devi Febrianti**. Saya lahir di Bandung pada tanggal **11 Februari 2005**
 - Membuat Game TicTacToe dalam bahasa C
 
 **_Hubungi_**
-- **Phone** : 089655462708 
+- **Phone** : 089655462708
 - **Email** : febriantidevi61@gmail.com
 
 <!--
